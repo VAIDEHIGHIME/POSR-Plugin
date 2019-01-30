@@ -4,4 +4,4 @@ This is a simple browser extension to identify the part of speech of a selected 
 ```
 ## Screen shot:
 
-![Alt text](POSR Plugin.png?raw=true "Input")
+![Alt text](pp.png?raw=true "Screen-Shot")
